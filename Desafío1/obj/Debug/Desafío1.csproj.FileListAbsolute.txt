@@ -1,0 +1,7 @@
+C:\Users\50246\Desktop\Ejercicios programación\Desafío1\Desafío1\bin\Debug\Desafío1.exe.config
+C:\Users\50246\Desktop\Ejercicios programación\Desafío1\Desafío1\bin\Debug\Desafío1.exe
+C:\Users\50246\Desktop\Ejercicios programación\Desafío1\Desafío1\bin\Debug\Desafío1.pdb
+C:\Users\50246\Desktop\Ejercicios programación\Desafío1\Desafío1\obj\Debug\Desafío1.csproj.AssemblyReference.cache
+C:\Users\50246\Desktop\Ejercicios programación\Desafío1\Desafío1\obj\Debug\Desafío1.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\Desafío1\Desafío1\obj\Debug\Desafío1.exe
+C:\Users\50246\Desktop\Ejercicios programación\Desafío1\Desafío1\obj\Debug\Desafío1.pdb
